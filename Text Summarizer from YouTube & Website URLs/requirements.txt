@@ -1,6 +1,20 @@
-streamlit
-validators
-langchain
-langchain_groq
-langchain_community
+# Streamlit for web app
+streamlit  
+
+# URL validation
+validators  
+
+# LangChain and related integrations
+langchain  
+langchain_groq  
+langchain_community  
+
+# NLP models and transformers
+transformers  
+
+# YouTube video processing
+pytube  
+
+# Web content extraction
+unstructured  
 
